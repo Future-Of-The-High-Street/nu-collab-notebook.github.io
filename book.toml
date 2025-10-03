@@ -3,3 +3,6 @@ authors = ["dev bakshi"]
 language = "en"
 src = "src"
 title = "FOTHS_Guide"
+
+[output.html]
+cname="example.hotbox.zip"
